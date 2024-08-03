@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|d:\\fahad sir\\github data\\asp_project\\e-commerce\\webapplication1\\webapplication1\\admin\\admin_login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\admin\\admin_login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|d:\\fahad sir\\github data\\asp_project\\e-commerce\\webapplication1\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|d:\\fahad sir\\github data\\asp_project\\e-commerce\\webapplication1\\webapplication1\\admin\\admin_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\admin\\admin_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\webapplication1\\admin\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\admin\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|d:\\fahad sir\\github data\\asp_project\\e-commerce\\webapplication1\\webapplication1\\admin\\admin_master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{C3C748C6-7CF5-41A6-81E8-52582209C851}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\admin\\admin_master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "admin_login.aspx",
-              "DocumentMoniker": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\admin_login.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Admin\\admin_login.aspx",
-              "ToolTip": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\admin_login.aspx",
-              "RelativeToolTip": "WebApplication1\\Admin\\admin_login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-31T07:16:53.804Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.aspx",
-              "DocumentMoniker": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\index.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Admin\\index.aspx",
-              "ToolTip": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\index.aspx",
-              "RelativeToolTip": "WebApplication1\\Admin\\index.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-31T07:02:33.157Z",
+              "DocumentIndex": 0,
+              "Title": "admin_login.aspx.vb",
+              "DocumentMoniker": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\admin_login.aspx.vb",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\admin_login.aspx.vb",
+              "ToolTip": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\admin_login.aspx.vb*",
+              "RelativeToolTip": "WebApplication1\\Admin\\admin_login.aspx.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T09:31:51.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "admin_master.Master",
-              "DocumentMoniker": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\admin_master.Master",
-              "RelativeDocumentMoniker": "WebApplication1\\Admin\\admin_master.Master",
-              "ToolTip": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\admin_master.Master",
-              "RelativeToolTip": "WebApplication1\\Admin\\admin_master.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Title": "admin_login.aspx",
+              "DocumentMoniker": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\admin_login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\admin_login.aspx",
+              "ToolTip": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Admin\\admin_login.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin\\admin_login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-31T06:56:13.519Z",
+              "WhenOpened": "2024-08-01T09:31:34.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "D:\\Fahad sir\\Github data\\ASP_Project\\E-Commerce\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-01T09:30:06.259Z",
               "EditorCaption": ""
             }
           ]

@@ -106,13 +106,14 @@
     </Compile>
     <Compile Include="Admin\admin_login.aspx.vb">
       <DependentUpon>admin_login.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Admin\admin_master.Master.designer.vb">
       <DependentUpon>admin_master.Master</DependentUpon>
     </Compile>
     <Compile Include="Admin\admin_master.Master.vb">
       <DependentUpon>admin_master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Admin\index.aspx.designer.vb">
       <DependentUpon>index.aspx</DependentUpon>
